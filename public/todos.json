@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "title": "Create demo project repo",
+    "done": true
+  },
+  {
+    "id": 2,
+    "title": "Record video"
+  },
+  {
+    "id": 3,
+    "title": "Edit and publish video"
+  },
+  {
+    "id": 4,
+    "title": "Share video and repo with friends"
+  }
+]
